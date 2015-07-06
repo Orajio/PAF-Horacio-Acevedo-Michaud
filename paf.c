@@ -12,7 +12,6 @@ int main (){
 		printf("El minimo son 3 numeros, reintente porfavor\n");
 		scanf("%d",&N);
 		}
-	j=N+1;
 	k=-N;
 	//Estableciendo lo necesario para el uso de los archivos de entrada y salida"
 	FILE *fila1= NULL;
